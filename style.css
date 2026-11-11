@@ -1,0 +1,225 @@
+body {   
+  background-color: #832025; 
+}  
+
+.container {
+  min-height: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 30px;
+}
+
+.about-card {
+  max-width: 500px;
+  width: 90%;
+  background-color: #922b31;
+  padding: 15px;
+  border-radius: 15px;
+  box-shadow: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.uzorak-slika {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+}
+
+.button-wrapper {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.moj-btn {
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #DFCFBE;
+  color: #9B2335;
+  border-radius: 8px;
+  cursor: pointer;
+  border: none;
+
+
+  transition: all 0.3s ease;
+}
+
+
+.moj-btn:hover {
+  background-color: #ffffff;
+  transform: translateY(-3px);
+}
+
+h1 {
+  text-align: center;
+  color: #DFCFBE;
+  font-size: 50px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+
+  transition: all 0.9s ease-in-out;
+  transition-delay: 0.5s;
+}
+
+.p1 {
+  color: #fffefe;
+  font-size: 50px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 100px;
+  transition: all 0.4 ease-in-out;
+  transition: all 0.4 ease-in;
+  transition-delay: 0.3;
+
+}
+
+.p2 {
+  color: #DFCFBE;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.p3 {
+  color: #DFCFBE;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.p4 {
+  color: #DFCFBE;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.shipping-card img {
+  width: 90%;
+  max-width: 500px;
+  height: auto;
+  display: block;
+  margin:  auto;
+  border-radius: 50px;
+  box-shadow: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 15px;
+}
+
+.h2 {
+  color: #fffffe; 
+  font-size: 60px;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  width:1px;
+}
+
+.p5 {
+  color: #DFCFBE;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  gap: 25px;
+}
+
+.p6 {
+  color: #DFCFBE;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.kontakt-slike {
+   width: 100% !important;
+   max-width: 490px !important;
+   height: auto !important;
+   display: block !important;
+   margin: 20px auto !important;
+   border-radius: 20px !important;
+}
+
+.ou {
+  color: #fffffe; 
+  font-size: 60px;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  width:1px;
+}
+
+.p7 {
+  color: #DFCFBE;
+  font-size: 29px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.p8 {
+  color: #DFCFBE;
+  font-size: 20px;
+  text-align: center;
+}
+
+.O-nama {
+  width: 100% !important;
+  max-width: 490px !important;
+  height: auto !important;
+  display: block !important;
+  margin: 20px auto !important;
+  border-radius: 20px !important;
+}
+
+.p9 {
+  color: #DFCFBE;
+  font-size: 20px;
+  text-align: center;
+}
+
+.ok {
+  color: #fffffe; 
+  font-size: 60px;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  width:1px;
+}
+
+.p10 {
+  color: #DFCFBE;
+  font-size: 20px;
+  text-align: center;
+}
+
+.p11 {
+  color: #DFCFBE;
+  font-size: 20px;
+  text-align: center;
+}
+
+.p12 {
+  color: #DFCFBE;
+  font-size: 20px;
+  text-align: center;
+}
+
+.p13 {
+  color: #DFCFBE;
+  font-size: 20px;
+  text-align: center;
+}
+
+.call-slika {
+  width:  100% !important;
+  max-width: 480px !important;
+  height: auto !important;
+  display: block !important;
+  margin: 20px auto !important;
+  border-radius: 20px !important;
+}
+
+.p14 {
+  color: #DFCFBE;
+  font-size: 40px;
+  text-align: center;
+  gap: -30px;
+}
